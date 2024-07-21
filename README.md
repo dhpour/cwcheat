@@ -7,7 +7,7 @@ Citation
 If you use this dataset in your work please refere to it as:
 
 ```bibtex
-@misc{dhpour_chcheat2024,
+@misc{dhpour_cw2024,
   title = {Persian Crossword Cheat Dataset},
   author = {Heidarpour, Davood},
   publisher = {Github},
